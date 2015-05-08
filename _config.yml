@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: happymark
 subtitle:
 description:
-author: John Doe
+author: happymark
 language:
 timezone:
 
@@ -62,8 +62,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-# theme: landscape
-theme: jacman
+theme: landscape
+# theme: jacman
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
